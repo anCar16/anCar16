@@ -8,8 +8,8 @@ Data scientist based in Costa Rica. I build end-to-end data projects: from SQL a
 
 **[Demand Planning Copilot](https://github.com/anCar16/demand-planning-copilot)**: an LLM agent that lets demand planners ask about sales and forecasts in plain language and answers with real numbers from a forecasting system.
 - LangGraph agent with tool calling, a read-only SQL guard and provider fallback (Gemini → Groq) with a circuit breaker.
-- Evaluated on 33 questions in Spanish and English with answers computed by SQL: **87.9% → 97.0%** after diagnosing each failure, including an anti-hallucination guard.
-- `Python` `LangGraph` `LiteLLM` `FastAPI` `DuckDB` `pytest`
+- Evaluated on 33 questions in Spanish and English with answers computed by SQL: **87.9% → 97.0% → 100%** over three iterations, each failure diagnosed and fixed (tool schema, anti-hallucination guard, letting SQL do the arithmetic).
+- `Python` `LangGraph` `LiteLLM` `FastAPI` `DuckDB` `pytest` `GitHub Actions`
 
 ### 📈 Data Science & Machine Learning
 
