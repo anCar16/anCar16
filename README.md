@@ -22,7 +22,7 @@ Data scientist based in Costa Rica, I build end-to-end data projects from SQL an
 **[Online Store Database](https://github.com/anCar16/sql-ecommerce-database)**: a MySQL schema with a transactional order procedure (row locking, rollback, error handling) and 13 automated tests in CI.
 - `MySQL` `SQL` `GitHub Actions`
 
-**[Power BI Dashboards](https://github.com/anCar16/power-bi-dashboards)**: exameples of market share in consumer goods, banking transactions in Costa Rica and world population, with DAX measures and KPI targets.
+**[Power BI Dashboards](https://github.com/anCar16/power-bi-dashboards)**: examples of market share in consumer goods, banking transactions in Costa Rica and world population, with DAX measures and KPI targets.
 - `Power BI` `DAX` `Power Query`
 
 ## Tech stack
