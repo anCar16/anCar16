@@ -35,4 +35,4 @@ Data scientist based in Costa Rica, I build end-to-end data projects from SQL an
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/andrés-calvo-33380a244/)
+[LinkedIn](https://www.linkedin.com/in/andrés-calvo-33380a244/)    andrescalvo684@gmail.com
